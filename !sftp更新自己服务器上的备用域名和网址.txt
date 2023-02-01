@@ -1,0 +1,10 @@
+
+sftp -oPort=xxxxx root@xxx.xxx.com
+
+put /Volumes/devs/siriusakura.github.io/eappdomain /home/website/okdatainfo
+
+put /Volumes/devs/siriusakura.github.io/d1appdomain /home/website/okdatainfo
+
+put /Volumes/devs/siriusakura.github.io/eappwebsite /home/website/okdatainfo
+
+exit
