@@ -1,0 +1,1 @@
+如果无法安装，可能是因为缺少【.net framework】，可在网上搜索.net framework安装后再次尝试打开。
