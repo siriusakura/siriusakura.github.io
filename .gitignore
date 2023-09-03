@@ -1,4 +1,4 @@
-.gitignore
+*.gitignore
 *github.sh
 *sftp更新自己服务器上的备用域名和网址.txt
 .DS_Store
